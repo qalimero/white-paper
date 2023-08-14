@@ -1,0 +1,23 @@
+{
+  "id": "cta_slice",
+  "type": "SharedSlice",
+  "name": "LinksSlice",
+  "description": "CtaSlice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {
+        "atom_link": {
+          "type": "Link",
+          "config": { "label": "Atom Link", "placeholder": "", "select": null }
+        }
+      }
+    }
+  ]
+}
