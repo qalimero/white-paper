@@ -11,6 +11,12 @@
             "content": {
               "text": "Esse aliqua qui in qui duis nisi. Esse elit elit culpa cillum dolore eiusmod aliquip deserunt."
             }
+          },
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Test heading1"
+            }
           }
         ]
       }

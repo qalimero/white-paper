@@ -5,7 +5,6 @@ import * as prismic from "@prismicio/client";
 
 import { createClient } from "@/prismicio";
 import { components } from "@/slices";
-import LinksSlice from "@/slices/LinksSlice";
 
 /**
  * This component renders your homepage.
